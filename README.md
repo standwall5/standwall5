@@ -1,9 +1,15 @@
 <h1>👋 Hi, I’m @standwall5 </h1>
 <h4>
-- 👀 I’m interested in programming and drawing <br>
-- 🌱 I’m currently learning web development<br>
-- 📫 How to reach me: johnpatricksalen890@gmail.com<br>
-- 😄 Pronouns: he/him <br>
+- 👀 I’m interested in programming and drawing
+</h4>
+<h4>
+- 🌱 I’m currently learning web development
+</h4>
+<h4>
+- 📫 How to reach me: johnpatricksalen890@gmail.com
+</h4>
+<h4>
+- 😄 Pronouns: he/him
 </h4>
 
 <!---
