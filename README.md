@@ -10,9 +10,9 @@ p {
 <p>📫 How to reach me: johnpatricksalen890@gmail.com</p>
 <p>😄 Pronouns: he/him</p>
 <h2>⌨️ Languages</h2>
-<p>HTML, CSS, JavaScript</p>
-<p>Java</p>
-<p>Python</p>
+<p>📜 HTML, CSS, JavaScript</p>
+<p>☕ Java</p>
+<p>🐍 Python</p>
 
 
 <!---
