@@ -4,12 +4,12 @@ p {
 }
 </style>
 
-<h1> Hi, I’m @standwall5 </h1>
-<p>I’m interested in programming and drawing</p>
-<p>I’m currently learning web development</p>
-<p>How to reach me: johnpatricksalen890@gmail.com</p>
-<p>Pronouns: he/him</p>
-<h2>Languages</h2>
+<h1>👋 Hi, I’m @standwall5 </h1>
+<p>👀 I’m interested in programming and drawing</p>
+<p>🌱 I’m currently learning web development</p>
+<p>📫 How to reach me: johnpatricksalen890@gmail.com</p>
+<p>😄 Pronouns: he/him</p>
+<h2>⌨️ Languages</h2>
 <p>HTML, CSS, JavaScript</p>
 <p>Java</p>
 <p>Python</p>
