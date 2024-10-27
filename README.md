@@ -1,20 +1,19 @@
-<h1>👋 Hi, I’m @standwall5 </h1>
-<h4>
-- 👀 I’m interested in programming and drawing
-</h4>
-<h4>
-- 🌱 I’m currently learning web development 
-</h4>
-<h4>
-- 📫 How to reach me: johnpatricksalen890@gmail.com
-</h4>
-<h4>
-- 😄 Pronouns: he/him
-</h4>
+<style>
+p {
+  font-size: 24px;
+}
+</style>
+
+<h1> Hi, I’m @standwall5 </h1>
+<p>I’m interested in programming and drawing</p>
+<p>I’m currently learning web development</p>
+<p>How to reach me: johnpatricksalen890@gmail.com</p>
+<p>Pronouns: he/him</p>
 <h2>Languages</h2>
-<h4>HTML, CSS JavaScript</h4>
-<h4>Java</h4>
-<h4>Python</h4>
+<p>HTML, CSS, JavaScript</p>
+<p>Java</p>
+<p>Python</p>
+
 
 <!---
 standwall5/standwall5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
