@@ -1,9 +1,3 @@
-<style>
-p {
-  font-size: 24px;
-}
-</style>
-
 <h1>👋 Hi, I’m @standwall5 </h1>
 <p>👀 I’m interested in programming and drawing</p>
 <p>🌱 I’m currently learning web development</p>
